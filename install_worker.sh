@@ -1,6 +1,6 @@
 #!/bin/bash
+read -p "Enter GIT access token" accesstoken
 
-read -p "Enter GIT access token >" accesstoken
 sudo apt update
 sudo apt install git python3 pip -y
 sudo pip3 install termcolor chardet pytz --break-system-packages
