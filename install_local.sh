@@ -4,7 +4,8 @@
 # 2. Install Debian 12 on WSL.
 # 3. Enable systemd on Debian 12: https://learn.microsoft.com/en-us/windows/wsl/systemd
 # 4. Obtain Github username and access token
-# 5. Run this script inside debian 12 - within Windows WSL
+# 5. Fork https://github.com/degorg/main
+# 5. Run this script inside debian 12 - within Windows WSL - with (username, accessToken, yourForkRepoName)
 
 read -p "Enter GIT username >" username
 read -p "Enter GIT access token >" accesstoken
