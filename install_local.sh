@@ -1,5 +1,5 @@
 #!/bin/bash
-# Steps on Windows:
+# Steps on Windows::
 # 1. Install WSL on Windows.
 # 2. Install Debian 12 on WSL.
 # 3. Enable systemd on Debian 12: https://learn.microsoft.com/en-us/windows/wsl/systemd
