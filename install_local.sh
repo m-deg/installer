@@ -4,6 +4,7 @@
 # 2. Install Debian 12 on WSL.
 # 3. Obtain Github username and access token
 # 4. Run this script inside debian 12 - within Windows WSL - with (username, accessToken, yourForkRepoName)
+# NOTE: Skip twilio setup.
 
 read -p "Enter GIT username >" username
 read -p "Enter GIT access token >" accesstoken
